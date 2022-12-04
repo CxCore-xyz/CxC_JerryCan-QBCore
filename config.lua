@@ -10,7 +10,7 @@ Config.ScriptDiscord = "Dsc.gg/CxCCore" -- Don't touch this or the script won't 
 Config.FuelScript = "LegacyFuel" -- Your server fuel script name / uses export['scriptname']:setfuel()
 
 --Fill time settings
-Config.BoatFillTime = 20000 -- 20Seconds
+Config.BoatFillTime = 15000 -- 15Seconds
 Config.VehicleFillTime = 20000 -- 20Seconds
 
 --Boat jerrycan settings
@@ -19,7 +19,7 @@ Config.BoatFillAmount = 100 -- Fill amount from 0 to 100 for boat jerrycan
 
 --Vehicle jerrycan settings
 Config.VehicleCanItem = "jerry_canv" -- Item name for vehicles jerrycan
-Config.VehicleFillAmount = 80 -- Fill amount from 0 to 100 for vehicle jerrycan
+Config.VehicleFillAmount = 100 -- Fill amount from 0 to 100 for vehicle jerrycan
 
 --Debug settings
 Config.Debug = false -- Set true if you want console debug
