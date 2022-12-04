@@ -7,8 +7,8 @@ local Translations = {
         ["boat_success"] = "Boat was successfuly refueled!",
     },
     info = {
-        ["invehicle_vehicle"] = "You have to be in a vehicle!",
-        ["invehicle_boat"] = "You have to be in a boat!",
+        ["invehicle_vehicle"] = "You have to be outside of an vehicle!",
+        ["invehicle_boat"] = "You have to be not in the driverseat in the boat!",
         ["progress_bar_vehicle"] = "Refueling Vehicle",
         ["progress_bar_boat"] = "Refueling Boat",
     },
