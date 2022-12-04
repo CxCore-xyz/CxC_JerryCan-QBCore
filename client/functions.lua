@@ -17,3 +17,4 @@ end
 RegisterNetEvent('CxC:JerryCan:Animation:Trigger', function()
       FuelingAnimation()
 end)
+ 
