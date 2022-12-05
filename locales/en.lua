@@ -1,6 +1,8 @@
 local Translations = {
     error = {
         ["canceled"] = "Reafueling was canceled!",
+        ["toofaraway_vehicle"] = "You are too far away from any vehicle!",
+        ["toofaraway_boat"] = "You are too far away from any boat!",
     },
     success = {
         ["veh_success"] = "Vehicle was successfuly refueled!",
