@@ -17,5 +17,4 @@ end
 RegisterNetEvent('CxC:JerryCan:Animation:Trigger', function()
       TriggerServerEvent('debug:server:side')		
       FuelingAnimation()
-end)
- 
+end) 
