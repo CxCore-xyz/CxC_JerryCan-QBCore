@@ -9,6 +9,10 @@ Config.ScriptDiscord = "Dsc.gg/CxCCore" -- Don't touch this or the script won't 
 --Fuel script settings
 Config.FuelScript = "LegacyFuel" -- Your server fuel script name / uses export['scriptname']:setfuel()
 
+--Distance checking settings
+Config.BoatFillDistance = 2.5 -- Recommended 2.5 or above no lower
+Config.VehicleFillDitance = 2.5 -- Recommended 2.5 or above no lower
+
 --Fill time settings
 Config.BoatFillTime = 15000 -- 15Seconds
 Config.VehicleFillTime = 20000 -- 20Seconds
