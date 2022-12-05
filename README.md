@@ -4,3 +4,6 @@ An jerry can item script for vehicles and boats! Fully configurable config.lua f
 Preview: https://streamable.com/4bxwnh
 
 Dsc.gg/CxCCore
+(This version is latest and this script in github won't receive anymore updates)
+(Further we are moving to tebex.io for this script further updates you can get full version of the script for $5.00 + Tax)
+(You still can ask for support in our discord we will help you)
