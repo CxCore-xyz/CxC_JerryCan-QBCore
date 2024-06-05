@@ -1,3 +1,5 @@
+# OUTDATED USE THIS VERSION INSTEAD: https://github.com/CxCore-xyz/Cx_JerryCanV2
+
 # CxC_JerryCan-QBCore
 An jerry can item script for vehicles and boats! Fully configurable config.lua file! QBCore newest version.
 
